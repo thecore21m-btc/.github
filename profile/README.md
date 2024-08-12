@@ -1,5 +1,5 @@
 # THE CORE - ONLINE BITCOIN EDUCATION PLTAFORM
-Welcome to [**THE CORE**](https://github.com/thecore21m) official GitHub Repository. We aim to scale up Bitcoin adoption through education, creative content and community Building 
+Welcome to [**THE CORE**](https://github.com/thecore21m-btc) official GitHub Repository. We aim to scale up Bitcoin adoption through education, creative content and community Building 
 
 ##  ABOUT THE CORE
 

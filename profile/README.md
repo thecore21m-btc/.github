@@ -35,7 +35,7 @@ Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's 
 Christopher Mawaniki (Kenyan): IT/Technical Depertement
 
 
-<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/58ec0b5966c249024e7f1126929bcadcffe90569/Kenya%20--%20The%20Core/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/thecore21m-btc/.github/blob/main/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🥇 OBJECTIVES 
 ### 1 ONLINE BITCOIN EDUCATION | BITCOIN DIPLOMA 

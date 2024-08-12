@@ -1,5 +1,5 @@
 # 🏷️ The Core - Bitcoin Education
-<img src="https://github.com/MyFirstBitcoin/Full-Node-Directory/blob/58ec0b5966c249024e7f1126929bcadcffe90569/Kenya%20--%20The%20Core/The%20Core.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/thecore21m-btc/.github/blob/main/The%20Core.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Kenya

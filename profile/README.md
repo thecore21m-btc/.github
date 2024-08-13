@@ -1,4 +1,4 @@
-# 🌟 THE CORE - BITCOIN EDUCATION
+# THE CORE - BITCOIN EDUCATION 🪙 🌟
 ![Bitcoin Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg)
 
 Welcome to the [**THE CORE - BITCOIN EDUCATION**](https://github.com/thecore21m-btc) official GitHub Repository! We are dedicated to scaling up Bitcoin adoption through education, creative content, and community building. Join us in the journey to empower lives through Bitcoin! 🚀

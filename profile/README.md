@@ -1,5 +1,5 @@
- ![Bitcoin Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg)
 # THE CORE - BITCOIN EDUCATION
+ ![Bitcoin Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg)
 Welcome to [**THE CORE**](https://github.com/thecore21m-btc) official GitHub Repository. We aim to scale up Bitcoin adoption through education, creative content and community Building 
 
 ##  ABOUT THE CORE

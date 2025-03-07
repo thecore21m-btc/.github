@@ -12,8 +12,7 @@ Welcome to the [**THE CORE - BITCOIN EDUCATION**](https://github.com/thecore21m-
 Our mission is to create Bitcoin awareness throgh Bitcoin education, content creation and community building.
 
 ## 👁️ VISION
-
-Our vision is to build a global community dedicated to knowledge and change. **The Core** aims to transform perceptions of Bitcoin into a catalyst for good. By providing accessible resources, we strive to educate everyone on the immense potential of Bitcoin.
+Bitcoin Mass Adoption
 
 ## 🎓 PROGRAMS
 

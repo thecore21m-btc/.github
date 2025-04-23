@@ -31,7 +31,7 @@ Our goal is to cultivate a vibrant community of Bitcoin enthusiasts. We organize
 We collaborate with [**My First Bitcoin**](https://github.com/MyFirstBitcoin) to offer the [**Bitcoin Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) curriculum to Bitcoin education platforms worldwide. We also provide valuable resources that each platform can use independently to make Bitcoin education seamless.
 
 ### Grants
-    [**Human Rights Foundation**](https://hrf.org/)
+[**Human Rights Foundation**](https://hrf.org/)
 
 ## 💰 DONATIONS
 

@@ -30,6 +30,9 @@ Our goal is to cultivate a vibrant community of Bitcoin enthusiasts. We organize
 ### 🤝 [**The Core**](https://github.com/thecore21m) & [**My First Bitcoin**](https://github.com/MyFirstBitcoin)
 We collaborate with [**My First Bitcoin**](https://github.com/MyFirstBitcoin) to offer the [**Bitcoin Diploma**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) curriculum to Bitcoin education platforms worldwide. We also provide valuable resources that each platform can use independently to make Bitcoin education seamless.
 
+###Grants
+[**Human Rights Foundation**](https://hrf.org/)
+
 ### 🤝 [**The Core**](https://github.com/thecore21m) & [**Yzer.io**](https://yzer.io/)
 We partner with the [**Yzer.io**](https://yzer.io/) App, recommending it to our community and individuals who prefer self-paced learning. The app offers flexibility, allowing users to learn about Bitcoin at their own pace.
 
